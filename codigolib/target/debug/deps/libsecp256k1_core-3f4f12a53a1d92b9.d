@@ -1,0 +1,13 @@
+/home/codigo/workspace/codigolib/target/debug/deps/libsecp256k1_core-3f4f12a53a1d92b9.rmeta: /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/libsecp256k1-core-0.2.2/src/lib.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/libsecp256k1-core-0.2.2/src/field.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/libsecp256k1-core-0.2.2/src/group.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/libsecp256k1-core-0.2.2/src/der.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/libsecp256k1-core-0.2.2/src/ecdh.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/libsecp256k1-core-0.2.2/src/ecdsa.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/libsecp256k1-core-0.2.2/src/ecmult.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/libsecp256k1-core-0.2.2/src/error.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/libsecp256k1-core-0.2.2/src/scalar.rs
+
+/home/codigo/workspace/codigolib/target/debug/deps/libsecp256k1_core-3f4f12a53a1d92b9.d: /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/libsecp256k1-core-0.2.2/src/lib.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/libsecp256k1-core-0.2.2/src/field.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/libsecp256k1-core-0.2.2/src/group.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/libsecp256k1-core-0.2.2/src/der.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/libsecp256k1-core-0.2.2/src/ecdh.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/libsecp256k1-core-0.2.2/src/ecdsa.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/libsecp256k1-core-0.2.2/src/ecmult.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/libsecp256k1-core-0.2.2/src/error.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/libsecp256k1-core-0.2.2/src/scalar.rs
+
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/libsecp256k1-core-0.2.2/src/lib.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/libsecp256k1-core-0.2.2/src/field.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/libsecp256k1-core-0.2.2/src/group.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/libsecp256k1-core-0.2.2/src/der.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/libsecp256k1-core-0.2.2/src/ecdh.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/libsecp256k1-core-0.2.2/src/ecdsa.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/libsecp256k1-core-0.2.2/src/ecmult.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/libsecp256k1-core-0.2.2/src/error.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/libsecp256k1-core-0.2.2/src/scalar.rs:

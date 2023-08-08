@@ -1,0 +1,20 @@
+/home/codigo/workspace/codigolib/target/debug/deps/librustversion-d4d86a3653866b57.so: /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.14/src/lib.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.14/src/attr.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.14/src/bound.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.14/src/constfn.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.14/src/date.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.14/src/error.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.14/src/expand.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.14/src/expr.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.14/src/iter.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.14/src/release.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.14/src/time.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.14/src/token.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.14/src/version.rs /home/codigo/workspace/codigolib/target/debug/build/rustversion-9d0d1b733fe7bc9a/out/version.expr
+
+/home/codigo/workspace/codigolib/target/debug/deps/rustversion-d4d86a3653866b57.d: /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.14/src/lib.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.14/src/attr.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.14/src/bound.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.14/src/constfn.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.14/src/date.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.14/src/error.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.14/src/expand.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.14/src/expr.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.14/src/iter.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.14/src/release.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.14/src/time.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.14/src/token.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.14/src/version.rs /home/codigo/workspace/codigolib/target/debug/build/rustversion-9d0d1b733fe7bc9a/out/version.expr
+
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.14/src/lib.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.14/src/attr.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.14/src/bound.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.14/src/constfn.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.14/src/date.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.14/src/error.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.14/src/expand.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.14/src/expr.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.14/src/iter.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.14/src/release.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.14/src/time.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.14/src/token.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.14/src/version.rs:
+/home/codigo/workspace/codigolib/target/debug/build/rustversion-9d0d1b733fe7bc9a/out/version.expr:
+
+# env-dep:OUT_DIR=/home/codigo/workspace/codigolib/target/debug/build/rustversion-9d0d1b733fe7bc9a/out

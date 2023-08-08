@@ -1,0 +1,31 @@
+{
+  "compilerOptions": {
+    "lib": ["ESNext", "dom", "es2017"],
+    "outDir": "./dist",
+    "removeComments": true,
+    "target": "ES6",
+    "module": "CommonJS",
+    "declaration": true,
+
+    "baseUrl": "./",
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "paths": {},
+
+    "sourceMap": true,
+    "sourceRoot": "/",
+
+    "alwaysStrict": true,
+    "allowUnreachableCode": false,
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+
+    "noImplicitReturns": true,
+    "noUncheckedIndexedAccess": true,
+
+    "allowJs": true
+
+  },
+  "include": ["./**/*.ts"],
+  "exclude": ["node_modules/**/*", "dist/**/*"]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "budget-tracker",
+  "version": "0.0.1",
+  "description": "The purpose of this contract is to track the income and outcome of a given user. For this contract, we are going to \ntarget the Solana blockchain. Thus, we define the data structure **Record** that will be transpile to a PDA Account \nbase on the seeds defined in the solana extension. In addition, the contract defines three methods, also known as \ninstruction; through this method, we add behavior.\n\nSome useful links:\n\n  - [Blockchain Extensions](https://docs.codigo.ai/category/blockchain-extensions)\n  - [Learning the Basics](https://docs.codigo.ai/código-interface-description-language/learning-the-basics)\n  - [Building Solana Program with CIDL: A Comprehensive Guide Part I](https://docs.codigo.ai/guides/part-1-building-solana-programs)",
+  "main": "dist/budget-tracker.bundle.js",
+  "license": "MIT",
+  "author": "Código <support@codigo.ai> (https://codigo.ai)",
+  "private": true,
+  "files": [
+    "/dist"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Codigo-io/examples"
+  },
+  "scripts": {
+    "build": "webpack",
+    "test": "env TS_NODE_COMPILER_OPTIONS='{\"module\": \"commonjs\" }' mocha -r ts-node/register 'test/*.ts'"
+  },
+  "dependencies": {
+    "rimraf": "^4.1.0",
+    "@solana/web3.js": "1.76.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.16.0",
+    "@types/node-fetch": "^2.6.2",
+    "typescript": "^4.9.4",
+    "prettier": "^2.8.3",
+    "chai": "^4.3.7",
+    "eslint": "^8.32.0",
+    "mocha-chrome": "^2.2.0",
+    "ts-loader": "^9.4.1",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.0",
+    "chai-as-promised": "^7.1.1",
+    "mocha": "^10.1.0",
+    "@types/chai": "^4.3.5",
+    "@types/mocha": "^10.0.1",
+    "ts-node": "^10.9.1"
+  },
+  "jshintConfig": {
+    "esversion": 9
+  },
+  "browser":{
+    "child_process": false
+  }
+}
